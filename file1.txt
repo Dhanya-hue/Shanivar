@@ -1,4 +1,7 @@
 adding content to file1
 adding more content to file1
 adding more and more contents
+ feature2
 adding more contenst for feature2 btranch
+adding more contenst for feature1 branch
+ master
