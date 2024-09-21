@@ -5,3 +5,4 @@ adding more and more contents
 adding more contenst for feature2 btranch
 adding more contenst for feature1 branch
  master
+making changes to file1 to solve cli merge conflict
